@@ -1,0 +1,161 @@
+@media (max-width:1300px) and (min-width: 1024px){
+    body{
+        width: 100vw;
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    main{
+        width: 100%;
+        max-width: 60%;
+        height: 100%;
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    #input-button{
+        flex-direction: row;
+        width: 100%;
+        height: 100px;
+
+    }
+    #icons{
+        width: 40%;
+    }
+
+    #error-p{
+        width: 70%;
+        height: 200px;
+        margin: 0;
+    }
+    #error-p p{
+        margin: 0;
+        overflow: hidden;
+    }
+    #button{
+        width: 30%;
+    }
+}
+
+@media (max-width:1440px) and (min-width: 1300px){
+    body{
+        width: 100vw;
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    main{
+        width: 100%;
+        max-width: 50%;
+        height: 100%;
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    #input-button{
+        flex-direction: row;
+        width: 100%;
+        height: 100px;
+
+    }
+    #icons{
+        width: 50%;
+    }
+
+    #error-p{
+        width: 70%;
+        height: 200px;
+        margin: 0;
+    }
+    #error-p p{
+        margin: 0;
+        overflow: hidden;
+    }
+    #button{
+        width: 30%;
+    }
+}
+@media (max-width:1600px) and (min-width: 1440px){
+    body{
+        width: 100vw;
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    main{
+        width: 100%;
+        max-width: 50%;
+        height: 100%;
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    #input-button{
+        flex-direction: row;
+        width: 100%;
+        height: 100px;
+
+    }
+    #icons{
+        width: 50%;
+    }
+
+    #error-p{
+        width: 70%;
+        height: 200px;
+        margin: 0;
+    }
+    #error-p p{
+        margin: 0;
+        overflow: hidden;
+    }
+    #button{
+        width: 30%;
+    }
+}
+@media (max-width:2600px) and (min-width: 1600px){
+    body{
+        width: 100vw;
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    main{
+        width: 100%;
+        max-width: 30%;
+        height: 100%;
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    #input-button{
+        flex-direction: row;
+        width: 100%;
+        height: 100px;
+
+    }
+    #icons{
+        width: 50%;
+    }
+
+    #error-p{
+        width: 70%;
+        height: 200px;
+        margin: 0;
+    }
+    #error-p p{
+        margin: 0;
+        overflow: hidden;
+    }
+    #button{
+        width: 30%;
+    }
+}
